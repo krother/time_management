@@ -6,7 +6,7 @@
 
 Distributed under the conditions of the Creative Commons Attribution Share-alike License 4.0
 
-The sources of this document can be found on [https://github.com/krother/Time_Management](https://github.com/krother/Time_Management) 
+The sources of this document can be found on [https://github.com/krother/Time_Management_for_Scientists](https://github.com/krother/Time_Management_for_Scientists) 
 
 ## Summary
 
