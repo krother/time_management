@@ -8,7 +8,6 @@ As a postdoc, I was struggling with coordinating more than 10 projects, and the 
 A task board helps a team to keep track of progress in a project. You basically write tasks on paper cards and attach or pin them to a board. The board is divided in three sections: **Todo**, **Work in Progress** and **Done**. All tasks start in the Todo section and move as the project progresses. On my board there were a few special columns for tasks colleagues or reviewers were taking care of, but the basic structure is the same.
 
 It may be tempting to use whatever electronic tool for the board, but don’t! The main function of the board is to constantly remind you and your team of what you are working on. I have seen task boards on a lab wardrobe, or above a desk on a pin board, and both worked fine.
-/static/uploaded/taskboard.png
 
 ![Task Board schematic](images/task_board.png)
 

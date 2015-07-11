@@ -5,7 +5,7 @@
 |---------|------|-----------|
 | I am trying to do too many things at the same time | work efficiency | Multitasking myth, Pareto principle, 5 basic options, Kanban, S4, meetings, reading |
 | I am frequently interrupted while executing tasks | Priorities | Covey Matrix, POOCOO, setting boundaries, 10 small steps vs. procrastination, reasons for procrastination, email, bosses, phone |
-| I have difficulties finishing the things I started | focus | flow, pomodoro | burndown, progress visualization |
+| I have difficulties finishing the things I started | focus | flow, pomodoro, burndown, progress visualization |
 | I am frustrated because I seem not to advance at all | focus | burndown, progress visualization, celebrate success, success wall |
 | I seem to lose energy in what I am doing | scheduling | 5 critical times, biorhythms, OATS, 3 daily goals, weekly goals, Kanban |
 | I end up doing too much for other people and too little for myself | value your own interest | ways to say no, who/what/how, goals |

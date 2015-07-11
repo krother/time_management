@@ -29,4 +29,4 @@ And in practice, this is a wonderful thing: you wake up and do what you’re pas
 
 I end up in places that are wonderful, surprising, great. I just didn’t know I would get there when I started.
 
-*Leo Babauta is a zen practitioner and author of the blog [www./zenhabits.net/](http://zenhabits.net/). The blog contains years of advice on simplifying your life and becoming your mindful of what you do. This text is realeased *uncopyrighted*.
+*Leo Babauta is a zen practitioner and author of the blog [www./zenhabits.net/](http://zenhabits.net/). The blog contains years of advice on simplifying your life and becoming your mindful of what you do. This text is realeased **uncopyrighted** *.
