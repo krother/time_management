@@ -1,6 +1,7 @@
 # Summary
 
 * [Basics of Time Managment](basics.md)
+* [Quotes on Time](quotes.md)
 * [Goals](goals.md)
   * [SMART Goals](smart_goals.md)
   * [The best goal is no goal](the_best_goal_is_no_goal.md)
