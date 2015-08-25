@@ -1,7 +1,7 @@
 
 # Burndown Charts
 
-![Burndown Chart](images/burndown_chart.png)
+![Burndown Chart](images/burndown.png)
 
 ### Why:
 
