@@ -1,7 +1,7 @@
 
 # You have five Options
 
-![Five Options](images/five_options.md)
+![Five Options](images/five_options.png)
 
 Whatever task is landing on your desk, you always have five options. Whether it is a part of your regular duties, an email, a piece of writing etc, the five options remain the same.
 
