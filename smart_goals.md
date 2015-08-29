@@ -2,7 +2,7 @@
 
 ## How to create objective, measurable project goals
 
-![SMART Goals](images/smart_goals.png)
+![SMART Goals](images/tools/smart_goals.png)
 
 When you talk about or write down project goals, it is very tempting to make general statements such as *"finish the experiment"*, *"write chapter 3"*. Such goals, however, are problematic: When *exactly* is the experiment finished? What does it mean that the chapter is written? Those hidden, implicit questions give us a strong incentive to stick to the goal more sloppily than we initially had in mind: we end up procrastrinating part of the work, tell we reached the goal, and thereby quality suffers.
 SMART goals offer a possible way out. Write project goals that fulfill the **five SMART criteria:**

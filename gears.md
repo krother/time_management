@@ -3,7 +3,7 @@
 
 You can work in one of four modes (or gears or zones):
 
-![Four Gears](images/4gears.png)
+![Four Gears](images/tools/four_gears.png)
 
 ### 1. Performance
 This is where everybody wants to be. Your work is fun, it seems to flow effortlessly, you feel inspired, stimulated, full of energy etc. The tasks have a good difficulty to keep you challenged but not overwhelm you. 

@@ -4,7 +4,7 @@
 
 Pomodoro(TM) makes more of your time when you have a lot to do.
 
-![Pomodoro](images/pomodoro.png)
+![Pomodoro](images/tools/pomodoro.png)
 
 ### Time required
 
