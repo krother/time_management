@@ -14,7 +14,7 @@
   * [Five Options](five_options.md)
   * [Ten Ways to say No](ten_ways_to_say_no.md)
   * [Saving Time with Pomodoro](pomodoro.md)
-  * [Kanban](task_board.md)
+  * [Using a Kanban Board](kanban.md)
     * [Burndown Charts](burndown.md)
   * [Gears of Work](gears.md)
   * [When the Time Fairy visits](time_fairy.md)
