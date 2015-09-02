@@ -1,5 +1,5 @@
 
-# Time Management for Scientists
+# Introduction
 
 ## Who is this ebook for?
 
@@ -33,3 +33,8 @@ The sources of this document, all images and material for exercises can be found
 The book itself is being built with a tool called **Gitbook**. It requires a bit of work to set up, but you don't have to be an IT specialist. 
 
 Contributions and suggestions for improvement are most welcome. If you don't know how to use **git**, simply drop me an email: [krother@academis.eu](mailto:krother@academis.eu).
+
+
+## Acknowledgements
+
+I would like to thank Jörn Manz for sparking my interest in Time Management, the PhD students Kasprzak J, Milanowska K, Musielak M, Philips A and Puton T for helping me field-test, Toastmasters International for many hours of practical expertise as a trainer and Wojciech Potrzebowski for the opportunity to present this content before a large audience.

@@ -46,3 +46,12 @@ Your team has 10 minutes to do as much as possible of the following:
 * What helped you decide what to do?
 * How did you resolve task dependencies?
 * Was the list of tasks helpful?
+
+
+
+### Further reading
+
+A more detailed guide for trainers can be found on:
+
+[http://www.corporatetrainingmaterials.com/downloads/samples/Time_Management_Instructor_Manual_Sample.pdf](http://www.corporatetrainingmaterials.com/downloads/samples/Time_Management_Instructor_Manual_Sample.pdf)
+

@@ -3,7 +3,7 @@
 
 As a postdoc, I was struggling with coordinating more than 10 projects, and the workload and multitasking were dragging me down. After some time I decided to do something about it, and the method that worked well was creating a **task board** where I placed all the work that had queued up. Then I started doing it, one task at a time.
 
-![Task Board at UAM Poznan](images/tools/task_board_uam660.jpg)
+![Task Board at UAM Poznan](images/task_board_uam660.jpg)
 
 A task board helps a team to keep track of progress in a project. You basically write tasks on paper cards and attach or pin them to a board. The board is divided in three sections: **Todo**, **Work in Progress** and **Done**. All tasks start in the Todo section and move as the project progresses. On my board there were a few special columns for tasks colleagues or reviewers were taking care of, but the basic structure is the same.
 

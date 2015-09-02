@@ -1,13 +1,6 @@
 
 # Workshop Overview
 
-## Workshop Goals
-
-* Participants assess their use of work time
-* Participants apply basic time management tools
-* Participants improve their long-term work efficiency
-* Participants improve their awareness of work-life balance
-
 ## Contents
 
 ### Time Management

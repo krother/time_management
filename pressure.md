@@ -10,7 +10,7 @@ Too many tasks, unclear tasks and short deadlines generate pressure and stress. 
 
 *On the third day of my postdoc, our system administrator came to my desk and said:*
 
-    *"Look what I have bought on the internet, Mua-ha-ha"*
+"Look what I have bought on the internet, Mua-ha-ha"
 
 *And he waved a sharp throwing star or shuriken under my nose. Admittedly the guy is a bit crazy (this actually helps administrating a room full of servers), but this is nothing unusual in science.*
 

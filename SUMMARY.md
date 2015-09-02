@@ -1,6 +1,7 @@
-# Summary
 
-* [Basics of Time Managment](README.md)
+# Time Management for Scientists
+
+* [Introduction](README.md)
 * [Quotes on Time](quotes.md)
 * [Problems Addressed](problems.md)
   * [Find your Focus](multitasking.md)
@@ -15,18 +16,12 @@
   * [Ten Ways to say No](ten_ways_to_say_no.md)
   * [Saving Time with Pomodoro](pomodoro.md)
   * [Using a Kanban Board](kanban.md)
-    * [Burndown Charts](burndown.md)
   * [Gears of Work](gears.md)
   * [When the Time Fairy visits](time_fairy.md)
-* [Trainers Guide](trainers_guide/README.md)
-  * [Workshop overview](trainers_guide/overview.md)
-  * [Module 1: Team Challenge](trainers_guide/warmup.md)
-  * [Module 2: Present basic tools](trainers_guide/present_tools.md)
-  * [Module 3: Covey Matrix exercise](trainers_guide/covey_matrix.md)
-  * [Module 4: After-lunch warmup](trainers_guide/after_lunch.md)
-  * [Module 5: Practical transfer](trainers_guide/practical_transfer.md)
-  * [Module 6: Wrapping up](trainers_guide/wrapping_up.md)
-  * [Lesson plan](trainers_guide/lesson_plan.md)
-* [Acknowledgements](acknowledgements.md)
-* [References](literature.md)
+* [Trainers Guide](trainers_guide/instructions_for_trainers.md)
+  * [Preparations](trainers_guide/preparations.md)
+  * [Warm-up exercises](trainers_guide/warmup.md)
+  * [Managing tasks exercise](trainers_guide/managing_tasks.md)
+  * [Poster session](trainers_guide/poster_session.md)
+  * [Question & Answer Session](trainers_guide/wrapup.md)
 
