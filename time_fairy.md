@@ -1,7 +1,7 @@
 
-# When the Time Fairy comes
+# When the Time Fairy knocks
 
-![the Time Fairy visits](images/tools/time_fairy_moments.png)
+![the Time Fairy visits](images/time_fairy_moments.png)
 
 There are special moments when the Time Fairy grants you a short period of time in which you are hyper productive. There are four different conditions that might contribute to hyper-productivity.
 
@@ -29,5 +29,5 @@ It happens often that our plans change on the fly: a train is delayed, a meeting
 
 You cannot always predict when the Time Fairy knocks. But knowing that such moments occur, you can be prepared for them. Leave your door open, and when the Time Fairy knocks, **seize the moment**!
 
-![the Time Fairy visits](images/cartoons/appointment.png)
+![the Time Fairy visits](images/appointment.png)
 

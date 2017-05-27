@@ -1,10 +1,11 @@
-# Saving Time with Pomodoro
+
+# Focus with Pomodoro
 
 ### Summary
 
 Pomodoro(TM) makes more of your time when you have a lot to do.
 
-![Pomodoro](images/tools/pomodoro.png)
+![Pomodoro](images/pomodoro.png)
 
 ### Time required
 

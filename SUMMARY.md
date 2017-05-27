@@ -2,12 +2,8 @@
 # Time Management for Scientists
 
 * [Introduction](README.md)
-* [Quotes on Time](quotes.md)
+* [Quotes on Time](quotes_time.md)
 * [Problems Addressed](problems.md)
-  * [Find your Focus](multitasking.md)
-  * [Deal with Pressure](pressure.md)
-  * [Work-Life Balance](balance.md)
-  * [Other Problems and Solutions](problems_and_solutions.md)
 * [Basic Time Management Tools](time_management_tools.md)
   * [Activity Log](activity_log.md)
   * [SMART Goals](smart_goals.md)

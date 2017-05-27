@@ -1,8 +1,8 @@
-# The Covey Matrix
+# Prioritizing with the Covey Matrix
 
 Most probably, you have more to do than you would like to. This is normal for most people. But not everybody lives comfortably with that. The Covey Matrix is a tool that helps you **prioritize** your work and brings you back into charge.
 
-![Covey Matrix](images/tools/covey_matrix.png)
+![Covey Matrix](images/covey_matrix.png)
 
 ## How it works:
 

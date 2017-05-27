@@ -17,3 +17,4 @@ You can use Excel, but usually, a paper diagram suffices.
 
 Burndown charts are neither good for showing off nor pointing out inability. They just measure where you are standing and allow you to react and adapt early.
 
+I find myself using Burndown Charts in writing projects over and over again. Mapping chapters, lines translated or the number of blog posts to a time scale works out surprisingly well.
