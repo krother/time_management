@@ -4,7 +4,7 @@
 To realize the unimportance of time is the gate to wisdom.
 <br>*Bertrand Russell*
 
-Time is free, but it's priceless. You can't own it, but you can use it. You can't 
+Time is free, but it's priceless. You can't own it, but you can use it. You can't
 keep it, but you can spend it. Once you've lost it, you can never get it back.
 <br>*Harvey MacKay*
 
@@ -51,5 +51,4 @@ If you want something done, ask the busiest person you know.
 <br>*unknown*
 
 Breathe
-<br>*[Leo Babauta](zenhabits.net)*
-
+<br>*Leo Babauta from [zenhabits.net](http://zenhabits.net)*

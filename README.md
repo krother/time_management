@@ -1,21 +1,40 @@
 
-# Introduction
+# Time Management
 
-## Who is this ebook for?
-
-This ebook is for scientists who would like to improve their usage of time. It contains basic time management tools that help you to become more productive or more relaxed (which in turn will make you more productive). 
+This is a 101 collection of classic time management tools.
+It helps you to become more productive or more relaxed (which in turn will make you more productive).
 
 I wrote everything here with the needs of PhD students and postdocs in life science laboratories in mind. You may find it useful if you work in a different field, although you may find the biologists' humour hard to understand.
 
-## How to read this book
-
-You can use this ebook in at least three ways:
-
-* **You are curious** to try a few time management tools. Great! You will find them here.
-* **You attended a course** and want to review what you learned there.
-* **You want to give a course** for other scientists. Please take a look at the **Trainers Guide** at the end of the book.
-
 I hope the time you spend reading this ebook will be time well spent ;-)
+
+----
+
+## Contents
+
+* [Quotes on Time](quotes_time.md)
+* [Multitasking does not work](problems.md)
+* [Activity Log](activity_log.md)
+* [SMART Goals](smart_goals.md)
+* [The Covey Matrix](covey_matrix.md)
+* [Five Options](five_options.md)
+* [Ten Ways to say No](ten_ways_to_say_no.md)
+* [Saving Time with Pomodoro](pomodoro.md)
+* [Using a Kanban Board](kanban.md)
+* [Gears of Work](gears.md)
+* [When the Time Fairy visits](time_fairy.md)
+* [Tools mapped to problems](time_management_tools.md)
+
+## Trainers Guide
+
+* [Instructions for Trainers](trainers_guide/instructions_for_trainers.md)
+* [Preparations](trainers_guide/preparations.md)
+* [Warm-up exercises](trainers_guide/warmup.md)
+* [Managing tasks exercise](trainers_guide/managing_tasks.md)
+* [Poster session](trainers_guide/poster_session.md)
+* [Question & Answer Session](trainers_guide/wrapup.md)
+
+----
 
 ## License
 
@@ -23,17 +42,14 @@ I hope the time you spend reading this ebook will be time well spent ;-)
 
 Distributed under the conditions of the Creative Commons Attribution Share-alike License 4.0
 
-#### Explanation: 
+### Explanation:
 You are allowed to modify and share this material, or even use it in a commercial setting, given that you reference the author. *So ideally you get rich, I get famous and everybody else gets their work done super-effectively, so that we can live happily ever after. :-)*
 
-## I want to improve something. How can I do that?
+## Sources
 
-The sources of this document, all images and material for exercises can be found on [https://github.com/krother/Time_Management_for_Scientists](https://github.com/krother/Time_Management_for_Scientists).
+The sources of this document, all images and material for exercises can be found on [https://github.com/krother/time_management](https://github.com/krother/time_management).
 
-The book itself is being built with a tool called **Gitbook**. It requires a bit of work to set up, but you don't have to be an IT specialist. 
-
-Contributions and suggestions for improvement are most welcome. If you don't know how to use **git**, simply drop me an email: [krother@academis.eu](mailto:krother@academis.eu).
-
+----
 
 ## Acknowledgements
 

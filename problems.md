@@ -1,8 +1,5 @@
 
-# Problems Addressed
-
-
-## Multitasking doesn't work
+# Multitasking does not work
 
 ![Multitasking](images/multitasking.png)
 
@@ -15,6 +12,7 @@ Therefore, the purpose of many time management techniques is to help you avoid m
 *If the enemy prepares to defend the front, the back will be weak. If he prepares to defend the back, the front will be weak. If he prepares to defend the left, the right will be weak. If he prepares to defend the right, the left will be weak. If he prepares to defend everywhere, everywhere will be weak.*
 <br>*Sun Tzu, The Art of War*
 
+----
 
 ## Dealing with Pressure
 
@@ -22,8 +20,9 @@ Therefore, the purpose of many time management techniques is to help you avoid m
 
 Too many tasks, unclear tasks and short deadlines generate pressure and stress. Too much stress over too much time affects you happyness, health, productivity etc. Let's figure out how to deflect or reduce the pressure.
 
+----
 
-# Finding Balance
+## Finding Balance
 
 ![Balance](images/balance.png)
 
@@ -31,8 +30,7 @@ Too many tasks, unclear tasks and short deadlines generate pressure and stress. 
 
 Balancing your work life and your private life and whatever other life you have is one of the keys to long-term success and happyness.
 
-
-
+----
 
 ### References
 
