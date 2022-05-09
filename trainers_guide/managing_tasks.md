@@ -5,7 +5,7 @@
 
 Use basic Time Management techniques to sort and prioritize typical laboratory tasks.
 
-![sample task](../images/cartoons/panda_bsc.png)
+![sample task](../images/panda_bsc.png)
 
 ## Preparations
 
