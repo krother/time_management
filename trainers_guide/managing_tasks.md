@@ -9,7 +9,7 @@ Use basic Time Management techniques to sort and prioritize typical laboratory t
 
 ## Preparations
 
-* Print the tasks in the material folder [https://github.com/krother/Time_Management_for_Scientists/tree/master/trainers_guide/exercise_covey_matrix](https://github.com/krother/Time_Management_for_Scientists/tree/master/trainers_guide/exercise_covey_matrix).
+* Print the tasks in [exercise_covey_matrix.zip](exercise_covey_matrix.zip).
 * Prepare one set of tasks per group (2-4 people)
 * Print 4 or 9 tasks on one page
 

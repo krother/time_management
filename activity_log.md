@@ -3,7 +3,7 @@
 
 ![Activity Log](images/activity_log.png)
 
-### Benefits
+## Benefits
 
 The *activity log* or *time log* is a tool that helps you to:
 
@@ -13,14 +13,12 @@ The *activity log* or *time log* is a tool that helps you to:
 * identify time wasters
 * start improving your time management
 
-### How to do it
+## How to do it
 
 * create an empty table
 * note every half hour what you have been doing
 * repeat the process for 1-2 weeks
 * evaluate the result (e.g. categorizing)
 
-If you want to track your time in a very detailed manner, you can try the tool **RescueTime** ([www.rescuetime.com/](https://www.rescuetime.com/)).
-
-There are plenty of other tools (forms, programs, mobile apps etc.) that support keeping a time log. But in principle an empty sheet of paper does the job.
+There are plenty of mobile apps and other tools that help you keep a time log. But in principle an empty sheet of paper does the job.
 
